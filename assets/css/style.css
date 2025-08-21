@@ -698,4 +698,6 @@ section.test11
 
 .team-card .images img {
     height: 350px;
+    cursor: pointer;
+
 }
